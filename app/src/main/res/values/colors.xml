@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF62A5</color>
+    <color name="colorPrimaryDark">#FF7386</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="mainBottomTabTextGray">#858282</color>
+    <color name="Grey100">#F5F5F5</color>
+    <color name="Grey1">#262628</color>
+    <color name="pink1">#FF63A4</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+
+</resources>

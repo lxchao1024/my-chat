@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PairU</string>
+    <string name="tab_main">PairU</string>
+    <string name="tab_message">जानकारी</string>
+    <string name="tab_mine">我的</string>
+    <string name="app_back_toast">PairU को पृष्ठभूमि में चलने दें, जो संदेश के वास्तविक समय को सुनिश्चित करता है।</string>
+
+
+    <string name="connecting">कनेक्ट हो रहा है, कृपया प्रतीक्षा करें</string>
+    <string name="connect_faild">नेटवर्क कनेक्शन त्रुटि हैं</string>
+
+    <string name="network_error">आपका नेटवर्क मजबूत नहीं है, कृपया नेटवर्क की जाँच करें और पुनः प्रयास करें</string>
+
+    <string name="loading">लोडिंग</string>
+    <string name="no_more_content">कोई डेटा नहीं</string>
+
+    <string name="login">लॉग इन</string>
+    <string name="regist">पंजीकरण</string>
+    <string name="login_with_account">उपयोगकर्ता नाम पासवर्ड लॉगिन</string>
+    <string name="logining">लॉग इन हो रहा हैं</string>
+    <string name="login_success">सफल लॉगिन</string>
+    <string name="login_faild">लॉगिन विफल रहा</string>
+    <string name="hint_edit_nickname">कृपया एक उपनाम दर्ज करें</string>
+    <string name="hint_edit_psd">कृपया अपना पासवर्ड दर्ज करें</string>
+    <string name="hint_edit_account">请输入账号</string>
+    <string name="hint_edit_country">请输入国籍</string>
+    <string name="upload_header">कृपया एक अवतार अपलोड करें</string>
+    <string name="sex_girl">महिला</string>
+    <string name="sex_boy">नर</string>
+    <string name="regist_success">सफल पंजीकरण</string>
+    <string name="regist_faild">पंजीकरण विफल रहा</string>
+    <string name="upload_success">सफलता अपलोड करें</string>
+    <string name="upload_faild">अपलोड विफल रहा</string>
+    <string name="file_not_exit">फ़ाइल मौजूद नहीं है</string>
+
+    <string name="setting">सेट करें</string>
+    <string name="av_waiting">निमंत्रण स्वीकार किए जाने की प्रतीक्षा कर रही है.</string>
+    <string name="av_audio_invite">आपको वॉइस चैट में आमंत्रित कर रहा है</string>
+    <string name="av_video_invite">आपको वीडियो कॉल पर आमंत्रित कर रहा है</string>
+
+<!--    对方已拒绝   दूसरे पार्टी ने खारिज कर दिया है-->
+<!--    对方已挂断,聊天结束  दूसरे पार्टी ने रख दिया है। चैट समाप्त हो गई है।-->
+<!--    已挂断,聊天结束      रख दिया है। चैट समाप्त हो गई।-->
+<!--    语音通话       वॉयस कॉल-->
+
+    <!--我-->
+    <string name="my_chat_account">खाता संख्या:</string> खाता संख्या
+    <string name="mine_vip">सदस्य सेवा</string> सदस्य सेवा
+    <string name="mine_fans_and_attention">प्रशंसक और अनुसरण करें</string>
+    <string name="mine_fans">प्रशंसक</string> प्रशंसक
+    <string name="mine_attention">अनुसरण करें</string>
+<!--    关注人 ： लोगों का अनुसरण करें-->
+
+    <!--设置-->
+    <string name="new_message_remind">नया संदेश अनुस्मारक</string>
+    <string name="exit">ऐप से बाहर निकलें</string>
+    <string name="about">PairU के बारे में</string>
+<!--    再按一次退出程序     : प्रोग्राम से बाहर निकलने के लिए फिर से दबाएं-->
+
+    <!--关于-->
+    <string name="app_name_in_about">PairU</string>
+    <string name="function_introduction">फंक्शन परिचय</string>
+    <string name="user_agreement">उपयोगकर्ता समझौता</string>
+    <string name="complaint">कायतें</string> शि
+    <string name="check_update">अपडेट के लिए जाँच करें</string>
+    <string name="terms_of_use_and_privacy_policy">उपयोग की शर्तें और गोपनीयता नीति</string>
+
+
+
+    <!--会话界面-->
+    <string name="please_to_talk">प्रेस करें और बात करें</string>
+    <string name="shot">एक फोटो लो</string>
+    <string name="voice_rec">अपनी उंगली को ऊपर स्वाइप करें, भेजना रद्द करें</string>
+    <string name="voice_cancel">अपनी उंगली छोड़ दो, भेजना रद्द करें</string>
+    <string name="voice_short">रिकॉर्डिंग का समय बहुत कम है</string>
+
+
+
+
+</resources>

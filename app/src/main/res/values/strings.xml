@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">PairU</string>
+    <string name="tab_main">PairU</string>
+    <string name="tab_message">消息</string>
+    <string name="tab_mine">我的</string>
+
+    <string name="app_back_toast">允许PairU后台运行，更能保证消息的实时性</string>
+    <string name="connecting">正在连接…</string>
+    <string name="connect_faild">连接失败</string>
+
+    <string name="network_error">网络不给力</string>
+    <string name="loading">加载中</string>
+    <string name="no_more_content">暂无更多内容</string>
+
+    <string name="login">登录</string>
+    <string name="regist">注册</string>
+    <string name="password">密码:</string>
+    <string name="login_with_account">用户名密码登录</string>
+    <string name="logining">登录中…</string>
+    <string name="login_success">登录成功</string>
+    <string name="login_faild">登录失败</string>
+    <string name="hint_edit_nickname">请输入昵称</string>
+    <string name="hint_edit_psd">请输入密码</string>
+    <string name="hint_edit_account">请输入账号</string>
+    <string name="hint_edit_country">请输入国籍</string>
+    <string name="upload_header">请上传头像</string>
+    <string name="sex_girl">女生</string>
+    <string name="sex_boy">男生</string>
+    <string name="regist_success">注册成功</string>
+    <string name="regist_faild">注册失败</string>
+    <string name="upload_success">上传成功</string>
+    <string name="upload_faild">上传失败</string>
+    <string name="file_not_exit">文件不存在</string>
+
+    <string name="setting">设置</string>
+    <string name="av_waiting">正在等待对方接受邀请.</string>
+    <string name="av_audio_invite">邀请你进行语音通话</string>
+    <string name="av_video_invite">邀请你进行视频通话</string>
+    <!--我-->
+    <string name="my_chat_account">账号:</string>
+    <string name="mine_vip">会员服务</string>
+    <string name="mine_fans_and_attention">关注与粉丝</string>
+    <string name="mine_fans">粉丝</string>
+    <string name="mine_attention">关注</string>
+
+    <!--设置-->
+    <string name="new_message_remind">新消息提醒</string>
+    <string name="exit">退出</string>
+    <string name="about">关于</string>
+
+    <!--关于-->
+    <string name="app_name_in_about">PairU</string>
+    <string name="function_introduction">功能介绍</string>
+    <string name="user_agreement">用户协议</string>
+    <string name="complaint">投诉</string>
+    <string name="check_update">检查更新</string>
+    <string name="terms_of_use_and_privacy_policy">使用条款和隐私政策</string>
+
+    <!--    拍照-->
+    <string name="shot_error">拍照错误, 请向我们反馈</string>
+</resources>

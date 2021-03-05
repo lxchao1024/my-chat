@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_one"
+        android:icon="@drawable/selector_menu_main_item"
+        android:title="@string/tab_main" />
+
+    <item
+        android:id="@+id/tab_two"
+        android:icon="@drawable/selector_menu_message_item"
+        android:title="@string/tab_message" />
+
+    <item
+        android:id="@+id/tab_three"
+        android:icon="@drawable/selector_menu_mine_item"
+        android:title="@string/tab_mine" />
+
+    <!--        <item-->
+    <!--            android:id="@+id/tab_four"-->
+    <!--            android:icon="@mipmap/ic_launcher"-->
+    <!--            android:title="我的"/>-->
+</menu>

@@ -1,0 +1,3 @@
+include ':app',':client',':emojilibrary',':push',
+        ':avenginekit',':mars-core-release',':imagepicker'
+rootProject.name='MyChat'

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--图片选择-->
+    <string name="all_images">सभी चित्र</string>
+    <string name="folder_image_count">कुल में %1$d</string>
+    <string name="preview_image_count">%1$d/%2$d</string>
+    <string name="select_limit">%1$d छवियों तक का चयन करें</string>
+    <string name="complete">पूरी हो</string>
+    <string name="select_complete">完成(%1$d/%2$d)</string>
+    <string name="preview_count">पूर्वावलोकन(%1$d)</string>
+    <string name="origin">मूल छवि</string>
+    <string name="origin_size">原图(%1$s)</string>
+    <string name="select_imgs">选择图片</string>
+    <string name="shot_error">拍摄失败</string>
+</resources>

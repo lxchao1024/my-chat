@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--图片选择-->
+    <string name="all_images">All pictures</string>
+    <string name="folder_image_count">Total %1$d</string>
+    <string name="preview_image_count">%1$d/%2$d</string>
+    <string name="select_limit">Select up to %1$d images</string>
+    <string name="complete">complete</string>
+    <string name="select_complete">complete(%1$d/%2$d)</string>
+    <string name="preview_count">Preview(%1$d)</string>
+    <string name="origin">Original image</string>
+    <string name="origin_size">Original image(%1$s)</string>
+    <string name="shot_error">Photo error, please give us feedback</string>
+    <string name="select_imgs">Select Image</string>
+</resources>

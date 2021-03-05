@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PairU</string>
+    <string name="tab_main">PairU</string>
+    <string name="tab_message">MESSAGE</string>
+    <string name="tab_mine">MINE</string>
+
+    <string name="network_error">Network does not force</string>
+    <string name="loading">Loading</string>
+    <string name="no_more_content">No more content</string>
+
+    <string name="app_back_toast">Allow PairU to run in the background, which ensures the real-time of the message.</string>
+    <string name="connecting">connecting…</string>
+    <string name="connect_faild">connect faild</string>
+
+    <string name="login">log in</string>
+    <string name="regist">register</string>
+    <string name="hint_edit_nickname">Please enter a nickname</string>
+    <string name="hint_edit_psd">Please enter your password</string>
+    <string name="hint_edit_country">Please enter nationality</string>
+    <string name="sex_girl">girl</string>
+    <string name="sex_boy">boy</string>
+    <string name="regist_success">regist success</string>
+    <string name="login_with_account">Username password login</string>
+    <string name="hint_edit_account">please enter account</string>
+    <string name="regist_faild">regist faild</string>
+    <string name="upload_success">upload success</string>
+    <string name="upload_faild">upload faild</string>
+    <string name="file_not_exit">file not exit</string>
+    <string name="upload_header">Please upload an avatar</string>
+    <string name="logining">logining…</string>
+    <string name="login_success">login success</string>
+    <string name="login_faild">login faild</string>
+
+
+    <string name="setting">Setting</string>
+    <string name="av_waiting">Waiting for the other party to accept the invitation.</string>
+    <string name="av_audio_invite">Invite you to make a voice call</string>
+    <string name="av_video_invite">Invite you to make a video call</string>
+    <!--我-->
+    <string name="my_chat_account">account:</string>
+    <string name="mine_vip">VIP</string>
+    <string name="mine_fans_and_attention">fans and attention</string>
+    <string name="mine_fans">fans</string>
+    <string name="mine_attention">attention</string>
+
+
+    <!--设置-->
+    <string name="new_message_remind">New message reminder</string>
+    <string name="exit">exit</string>
+    <string name="about">about</string>
+
+    <!--关于-->
+    <string name="app_name_in_about">PairU</string>
+    <string name="function_introduction">Features</string>
+    <string name="complaint">Complaint</string>
+    <string name="check_update">Check for updates</string>
+    <string name="terms_of_use_and_privacy_policy">Terms of Use and Privacy Policy</string>
+
+    <string name="user_agreement">user agreement</string>
+
+    <!--会话界面-->
+    <string name="please_to_talk">Hold and talk</string>
+    <string name="shot">shot</string>
+    <string name="photo">photo</string>
+    <string name="voice_rec">Slip on your finger, cancel sending</string>
+    <string name="voice_cancel">Release your finger and cancel sending</string>
+    <string name="voice_short">Recording time is too short</string>
+
+</resources>

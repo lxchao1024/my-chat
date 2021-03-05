@@ -1,0 +1,97 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_root"
+    android:layout_width="250dp"
+    android:layout_height="300dp"
+    android:orientation="vertical">
+
+    <com.qiangdong.chat.widget.RoundImageView
+        android:id="@+id/item_stagger_iv_icon"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        android:src="@mipmap/errorimg" />
+
+    <ImageView
+        android:id="@+id/item_stagger_iv_play"
+        android:layout_width="26dp"
+        android:layout_height="26dp"
+        android:layout_alignParentRight="true"
+        android:layout_margin="15dp"
+        android:adjustViewBounds="true"
+        android:src="@mipmap/item_main_play"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/item_stagger_tv_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/item_stagger_tv_say_hello"
+        android:layout_width="110dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/shape_main_say_hello"
+        android:gravity="center"
+        android:text="hello"
+        android:textColor="#FFFF6999"
+        android:textSize="22sp"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/item_stagger_linear_sex_age"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="10dp"
+        android:background="@drawable/shape_main_item_sex_age"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/item_stagger_iv_sex"
+            android:layout_width="10dp"
+            android:layout_height="10dp"
+            android:layout_alignParentRight="true"
+            android:adjustViewBounds="true"
+            android:src="@drawable/man" />
+
+        <TextView
+            android:id="@+id/item_stagger_tv_age"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:text="23"
+            android:textColor="#FFFFFFFF"
+            android:textSize="10sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/item_stagger_tv_location"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:text="23.0km"
+        android:layout_alignBaseline="@+id/item_stagger_linear_sex_age"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/item_stagger_linear_sex_age"
+        android:textColor="#FFFFFFFF"
+        android:textSize="13sp"
+        android:gravity="bottom"
+        android:layout_marginBottom="12dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/item_stagger_iv_say_hello"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="10dp"
+        android:adjustViewBounds="true"
+        android:src="@mipmap/icon_say_hello_normal"/>
+</RelativeLayout>
